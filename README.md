@@ -24,7 +24,11 @@ These days I mostly build tooling around AI coding agents.
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Generating Dynamic AI-Powered FAQ Section for Sanity Blog Posts](https://blog.stackademic.com/generating-dynamic-ai-powered-faq-section-for-sanity-blog-posts-2a162ae4c998?source=rss-cd0db8c9eb2b------2) <sub>Jul 2025</sub>
+- [JSR: The JavaScript Package Registry We’ve Been Waiting For](https://levelup.gitconnected.com/jsr-the-javascript-package-registry-weve-been-waiting-for-bfc00f7d9779?source=rss-cd0db8c9eb2b------2) <sub>May 2024</sub>
+- [Scalable Web Scraping with Serverless — Part 2](https://levelup.gitconnected.com/scalable-web-scraping-with-serverless-part-2-523c4b1f3391?source=rss-cd0db8c9eb2b------2) <sub>May 2024</sub>
+- [Scalable Web Scraping with Serverless — Part 1](https://levelup.gitconnected.com/scalable-web-scraping-with-serverless-part-1-34f7fc28ad1b?source=rss-cd0db8c9eb2b------2) <sub>Apr 2024</sub>
+- [Web Scraping Like a Pro: Unlocking the Power of Impersonation](https://blog.stackademic.com/web-scraping-like-a-pro-unlocking-the-power-of-impersonation-296477955991?source=rss-cd0db8c9eb2b------2) <sub>Apr 2024</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>The post list updates daily from Medium via a GitHub Action.</sub>
